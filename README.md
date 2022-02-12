@@ -2,7 +2,7 @@
 ### I am Breno Borba
 
 🏫 Systems Analysis student at Polytechnic Institute of Bragança.<br>
-📚 Erasmus Computer Science student at Budapest University of Technology and Economics (BME).<br>
+📚 Erasmus Computer Engineering student at Budapest University of Technology and Economics (BME).<br>
 🚩 Started programming at 2019.<br>
 🌱 Currently working with JavaScript Full-Stack Development and SwiftUI Development.
 
