@@ -4,11 +4,12 @@
 🏫 Systems Analysis student at Polytechnic Institute of Bragança.<br>
 📚 Erasmus Computer Engineering student at Budapest University of Technology and Economics (BME).<br>
 🚩 Started programming at 2019.<br>
-🌱 Currently working with JavaScript Full-Stack Development and SwiftUI Development.
+🌱 Currently working with React Native and SwiftUI Development.
 
 😍 Passionate about Front-end development but still exploring the different paths of IT.
 
 ⚡️ Main skills: <br>
+<img height="30" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;
 <img height="30" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">&nbsp;
 <img height="30" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;
 <img height="30" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;
