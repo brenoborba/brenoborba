@@ -3,8 +3,7 @@
 
 🏫 Systems Analysis student at Polytechnic Institute of Bragança.<br>
 📚 Erasmus Computer Engineering student at Budapest University of Technology and Economics (BME).<br>
-🚩 Started programming at 2019.<br>
-🌱 Currently working with React Native and SwiftUI Development.
+💻 Front-end Developer at TechX-Solutions organization.
 
 😍 Passionate about Front-end development but still exploring the different paths of IT.
 
