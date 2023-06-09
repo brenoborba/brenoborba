@@ -12,7 +12,7 @@
 <img height="30" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">&nbsp;
 <img height="30" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;
 <img height="30" alt="NextJs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">&nbsp;
-<img height="30" alt="Java" src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg">&nbsp;
+<img height="30" alt="C SHARP" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-line.svg">&nbsp;
 <!--
 **brenoborba/brenoborba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 🏫 Systems Analysis student at Polytechnic Institute of Bragança.
