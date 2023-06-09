@@ -3,7 +3,6 @@
 
 🏫 Systems Analysis student at Polytechnic Institute of Bragança.<br>
 📚 Erasmus Computer Engineering student at Budapest University of Technology and Economics (BME).<br>
-💻 Front-end Developer at TechX-Solutions organization.
 
 😍 Passionate about Front-end development but still exploring different paths of IT.
 
