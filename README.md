@@ -3,7 +3,7 @@
 
 🏫 B.Sc. in IT Management at Polytechnic Institute of Bragança.<br>
 📚 Erasmus Computer Engineering student at Budapest University of Technology and Economics (BME).<br>
-💻 Currently working as a Full-stack developer @ ITSector.
+💻 Currently working as a front-end developer @ ITSector.
 
 😍 Passionate about Full-stack development but still exploring different paths of IT.
 
