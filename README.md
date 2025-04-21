@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am Breno Borba
 
-🏫 B.Sc. in IT Management at Polytechnic Institute of Bragança.<br>
+🏫 B.Sc. in IT Management at Polytechnic University of Bragança.<br>
 📚 Erasmus Computer Engineering student at Budapest University of Technology and Economics (BME).<br>
 💻 Currently working as a front-end developer @ ITSector.
 
