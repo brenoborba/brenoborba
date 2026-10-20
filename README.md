@@ -2,8 +2,9 @@
 ### I am Breno Borba
 
 🏫 B.Sc. in IT Management at Polytechnic University of Bragança.<br>
+🏫 M.Sc. in Computer Science at Polytechnic University of Bragança.<br>
 📚 Erasmus Computer Engineering student at Budapest University of Technology and Economics (BME).<br>
-💻 Currently working as a front-end developer @ Capgemini.
+💻 Currently working as a full-stack developer @ Capgemini.
 
 😍 Passionate about Full-stack development but still exploring different paths of IT.
 
